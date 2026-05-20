@@ -1,0 +1,13 @@
+{
+  "name": "bio_commands",
+  "owner": {
+    "name": "yangfei"
+  },
+  "plugins": [
+    {
+      "name": "bio",
+      "source": "./",
+      "description": "生信外包项目工作流命令集（项目脚手架、审计、检查、报告、图表审查、交付）"
+    }
+  ]
+}

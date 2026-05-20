@@ -1,0 +1,10 @@
+{
+  "name": "bio",
+  "version": "1.0.0",
+  "description": "生信外包项目工作流命令集（项目脚手架、审计、检查、报告、图表审查、交付）",
+  "author": {
+    "name": "yangfei"
+  },
+  "commands": "./commands",
+  "agents": "./agents"
+}
