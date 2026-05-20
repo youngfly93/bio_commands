@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bio Check"
+  short_description: "对照 plan.md 一次性审计生信分析结果"
+  default_prompt: "Use $bio-check to audit my analysis against plan.md."

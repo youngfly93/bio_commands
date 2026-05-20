@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bio Figure Review"
+  short_description: "批量审查图表是否符合 SCI 发表标准"
+  default_prompt: "Use $bio-fig-review to review all figures against SCI standards."

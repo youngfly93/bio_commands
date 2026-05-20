@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bio Project Init"
+  short_description: "为生信项目生成 plan.md / AGENTS.md / 标准目录脚手架"
+  default_prompt: "Use $bio-project-init to scaffold a new bioinformatics project."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bio SCI Figure"
+  short_description: "绘制 SCI 发表级别的可视化图表"
+  default_prompt: "Use $bio-sci-fig to draw publication-quality figures."

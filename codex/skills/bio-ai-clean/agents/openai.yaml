@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bio AI-Clean"
+  short_description: "扫描并清除交付文件中的 AI 使用痕迹"
+  default_prompt: "Use $bio-ai-clean to scrub AI traces from deliverables."

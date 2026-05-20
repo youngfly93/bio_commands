@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bio Deliver"
+  short_description: "一键交付打包（审计 + 清理 + Windows 兼容 ZIP）"
+  default_prompt: "Use $bio-deliver to assemble the final delivery ZIP."

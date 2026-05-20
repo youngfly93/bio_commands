@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bio Audit-Fix"
+  short_description: "审计-修复一体化循环（最多 5 轮）"
+  default_prompt: "Use $bio-audit-fix to audit then fix all P0/P1 issues iteratively."

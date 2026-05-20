@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bio Report"
+  short_description: "生成中文生信分析 Word 交付报告"
+  default_prompt: "Use $bio-report to generate the Chinese Word deliverable report."

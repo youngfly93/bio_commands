@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bio Result Auditor"
+  short_description: "生信分析结果审计专家（被其他 bio- skill 引用）"
+  default_prompt: "Use $bio-result-auditor to perform a structured audit against plan.md."
